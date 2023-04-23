@@ -45,6 +45,13 @@ python3 tweet.py -m "Hello world! #TwitterBot" -i "images/my_image.png"
 
 5. Sit back and enjoy your bot posting tweets with content and image on Twitter! 🎉🚀
 
+# Example
+
+
+https://user-images.githubusercontent.com/31238298/233862652-11bcb9f6-a800-4a67-997f-9caf828fa732.mp4
+
+
+
 # 🤝 Contributing 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality of this awesome Twitter bot. 💪
 
